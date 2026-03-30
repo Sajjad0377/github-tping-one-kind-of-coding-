@@ -1,2 +1,3 @@
 # github-tping-one-kind-of-coding-
 github tping one kind of coding . so try yourself 
+...
